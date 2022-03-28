@@ -1,0 +1,16 @@
+Caesar Cipher
+
+Choose 1 or 2 based on to decrypt or encrypt
+
+choose 1
+Encrypt data
+
+prompt user to enter text
+store text
+prompt user to enter key
+store key
+
+
+
+choose 2
+Decrypt data
